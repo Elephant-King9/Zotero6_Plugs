@@ -12,4 +12,7 @@
 + scihub
 + style
 + zotfile
++ scholaread
+
+
 
